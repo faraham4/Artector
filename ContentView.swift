@@ -12,7 +12,7 @@ import CoreImage
 struct ContentView: View {
     @State private var error: Bool = false
     @State private var predictedImage: UIImage?
-    let labels = ["monalisa", "theraftofthemedusa", "thestarrynight", "theweddingatcana", "womenofalgiers"]
+    let labels = ["Blind Light", "Builders", "Composition","Dark sea","Fosa","Our generous land","Still life with fish ","The land of solidities","Thursday Market","Untitled (Desert series)", "Untitled 1987", "Untitled 1988"]
     @State private var classificationLabel = ""
     @State private var selectedPainting: Painting?
     
@@ -94,7 +94,8 @@ struct ContentView: View {
             print("✓ Prediction done")
 
             // Update the classificationLabel with the predicted classLabel
-            self.classificationLabel = "✔️✔️✔️"//success message
+//            self.classificationLabel = "✔️✔️✔️"//success message
+            self.classificationLabel = "Prediction: \(prediction.target)"
 
             // Find the corresponding Painting based on the predicted label
             if let matchedPainting = paintings[prediction.target] {
