@@ -13,7 +13,10 @@ struct BoardingView: View {
                         .foregroundStyle(.black) .padding([.top, .leading])
                         .accessibilityLabel("Artector App")
                     
-                    Text("Find out the story behind a famous painting with a tap!")
+                    Text("Find out the story behind a  painting  3 Taps !")
+                         Text("Open your Camera")
+                         Text("Take a picture")
+                         Text("And enjoy your tour")
                         .font(.headline)
                         .foregroundColor(.black)
                         .padding([.leading, .bottom, .trailing])

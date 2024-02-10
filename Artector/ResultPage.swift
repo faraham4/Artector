@@ -48,7 +48,7 @@ struct ResultPage: View {
                             
                             VStack(alignment: .leading){
                                 
-                                Text("by \(painting.artist)")
+                                Text(" \(painting.artist)")
                                     .accessibilityLabel("Artist Name")
                                     .font(.title3)
                             }.padding()
@@ -62,7 +62,7 @@ struct ResultPage: View {
                                     Button(action: {
                                         //add sound code
                                     }, label: {
-                                        Image(systemName: "speaker")
+//                                        Image(systemName: "speaker")
                                     })
                                 }
                                 Text("\(painting.artistStory)")

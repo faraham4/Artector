@@ -1,6 +1,19 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    " %@" : {
+
+    },
+    " In Still Life with Fish (1975), Radwi employs a combination of paint and sand. resulting in a flattened portrayal of two fish within a loosely arranged geometric framework. Still Life with Fish pays homage to the origins of the still life genre, as fish were frequently depicted in early still life compositions." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "في \"لقطة ثابتة مع سمك\" (1975)، يستخدم رضوي مزيجًا من الطلاء والرمل، مما ينتج عنه تصوير مسطح لسمكتين ضمن إطار هندسي مرتب بشكل فضفاض. \"لقطة ثابتة مع سمك\" تُكرم أصول فن الطبيعة الصامتة، حيث كان يتم تصوير السمك بشكل متكرر في تكوينات الطبيعة الصامتة الأولى."
+          }
+        }
+      }
+    },
     " More info " : {
       "extractionState" : "stale",
       "localizations" : {
@@ -12,8 +25,100 @@
         }
       }
     },
+    " Oil on canvas #" : {
+
+    },
+    "********" : {
+
+    },
+    "#" : {
+
+    },
     "%@" : {
 
+    },
+    "Abdulhalim Radwi" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبد الحليم رضوي "
+          }
+        }
+      }
+    },
+    "Abduljabbar Alyahya" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبد الجبار اليحيى"
+          }
+        }
+      }
+    },
+    "Abdullah Hammas " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبد الله هماس "
+          }
+        }
+      }
+    },
+    "Abdullah Hammas is a prominent Saudi artist who is recognized as a pioneer of the fine art movement in Saudi Arabia. His works are celebrated for their symbolic abstraction, where he seeks to depict the real world in abstract symbols. Hammas's art often reflects the southern region of Saudi Arabia, specifically Asir, known for its rich natural beauty, customs, and colorful folk art. His paintings vividly portray the environment with bright and attractive colors, influenced by the local culture, traditions, and crafts." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبد الله حماس هو فنان سعودي بارز يعتبر رائدًا في حركة الفنون الجميلة في المملكة العربية السعودية. تشتهر أعماله بالتجريد الرمزي، حيث يسعى لتصوير العالم الواقعي في رموز مجردة. غالبًا ما تعكس فنون حماس المنطقة الجنوبية من السعودية، وبشكل خاص عسير، المعروفة بجمالها الطبيعي الغني، وعاداتها، وفنها الشعبي الملون. تصور لوحاته البيئة بألوان زاهية وجذابة، متأثرة بالثقافة المحلية والتقاليد والحرف اليدوية."
+          }
+        }
+      }
+    },
+    "Abdulrahman Alsoliman" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبد الحمن السليمان "
+          }
+        }
+      }
+    },
+    "Abdulrahman Alsoliman draws inspiration from the various urban and industrial landscapes of the Al-Ahsa region. His work navigates between different styles Including cubism, realism, abstraction, and surrealism. In the 1980s, Alsoliman explored historical, traditional, and societal shifts in Saudi Arabia." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عبدالرحمن السليمان يستلهم إلهامه من المناظر الحضرية والصناعية المختلفة في منطقة الأحساء. يتنقل عمله بين أساليب مختلفة تشمل الكوبية، الواقعية، التجريدية، والسريالية. في الثمانينيات، استكشف السليمان التحولات التاريخية والتقليدية والاجتماعية في المملكة العربية السعودية."
+          }
+        }
+      }
+    },
+    "Acrylic and oil on canvas. In Blind Light, Genadry transformed the flowing water of a waterfall, which reflects light much more than the surrounding mountains, into a radient beam of light that seams to slice through the rocks." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أكريليك وزيت على قماش. في \"ضوء أعمى\"، حوّلت جنادري المياه المتدفقة لشلال، التي تعكس الضوء أكثر بكثير من الجبال المحيطة، إلى شعاع ضوء ساطع يبدو وكأنه يقطع الصخور."
+          }
+        }
+      }
+    },
+    "And enjoy your tour" : {
+
+    },
+    "Arif El Rayess " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عارف الريس"
+          }
+        }
+      }
     },
     "Artector" : {
       "localizations" : {
@@ -56,7 +161,14 @@
       }
     },
     "Artist Story:" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قصة الفنان:"
+          }
+        }
+      }
     },
     "Artist:" : {
       "extractionState" : "stale",
@@ -102,8 +214,46 @@
         }
       }
     },
-    "by %@" : {
-
+    "As a child, Zarina experienced the 1947 partition of the indian Subcontinent firsthand. like thousands of others, her family was displaced to a refugee camp to escape widespread violance. She felt a lifelong affinity with displaced peoples, often expressing solidarity through her printed work. In 2015, she was moved by the persecution of Rohingya Muslims in Myanmar and the hardships of their difficult passage into neighboring Bangladesh. She linked these with perilous journeys by boat to reach the borders of Europe, drowning thousands in the Mediterranean every year. This led to her body of work, Dark Sea, in reference to the darkness experienced by refugees crossing the sees at night on small boats to avoid being caught by border patrols." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "عاشت زارينا تجربة تقسيم شبه القارة الهندية عام 1947 بنفسها عندما كانت طفلة. مثل الآلاف غيرها، تم نزوح عائلتها إلى مخيم للاجئين للهروب من العنف الواسع الانتشار. شعرت بتعاطف مدى الحياة مع الشعوب المشردة، وغالبًا ما عبرت عن تضامنها من خلال أعمالها المطبوعة. في عام 2015، تأثرت بما تعرض له المسلمون الروهينجا في ميانمار من اضطهاد وبصعوبات رحلتهم الشاقة إلى بنغلاديش المجاورة. ربطت زارينا هذه الأحداث بالرحلات الخطيرة بالقوارب للوصول إلى حدود أوروبا، حيث يغرق الآلاف كل عام في البحر الأبيض المتوسط. أدى ذلك إلى خلق مجموعتها الفنية \"البحر الداكن\"، والتي تشير إلى الظلام الذي يختبره اللاجئون عند عبور البحار ليلاً على متن قوارب صغيرة لتجنب الإمساك بهم من قبل دوريات الحدود."
+          }
+        }
+      }
+    },
+    "As a child, Zarina experienced the 1947 partition of the indian Subcontinent firsthand. like thousands of others, her family was displaced to a refugee camp to escape widespread violance. She felt a lifelong affinity with displaced peoples, often expressing solidarity through her printed work. In 2015, she was moved by the persecution of Rohingya Muslims in Myanmar and the hardships of their difficult passage into neighboring Bangladesh. She linked these with perilous journeys by boat to reach the borders of Europe, drowning thousands in the Mediterranean every year. This led to her body of work, Dark Sea, in reference to the darkness experienced by refugees crossing the sees at night on small boats to avoid being caught by border patrols. " : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كطفلة، عاشت زارينا تقسيم شبه القارة الهندية في عام 1947 بشكل مباشر. مثل آلاف غيرها، تم تهجير عائلتها إلى مخيم للاجئين للهروب من العنف الواسع الانتشار. شعرت بتقارب مدى الحياة مع الشعوب المشردة، وغالباً ما عبرت عن تضامنها من خلال أعمالها المطبوعة. في عام 2015، تأثرت بالاضطهاد الذي تعرض له المسلمون الروهينجا في ميانمار وصعوبات عبورهم إلى بنغلاديش المجاورة. ربطت زارينا هذه الأحداث برحلات خطيرة بالقوارب للوصول إلى حدود أوروبا، مما أدى إلى غرق الآلاف سنويًا في البحر الأبيض المتوسط. أدى ذلك إلى إنشاء مجموعتها الفنية \"البحر الداكن\"، في إشارة إلى الظلام الذي يعيشه اللاجئون أثناء عبورهم البحار ليلاً على متن قوارب صغيرة لتجنب القبض عليهم من قبل دوريات الحدود."
+          }
+        }
+      }
+    },
+    "Blind Light, 2017" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الضوء الضرير ،٢٠١٧"
+          }
+        }
+      }
+    },
+    "Bullders, 1977" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البنّايه ،١٩٧٧"
+          }
+        }
+      }
     },
     "Camera View" : {
       "localizations" : {
@@ -116,11 +266,42 @@
       }
     },
     "Captured Image" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "الصورة الملتقطة"
+          }
+        }
+      }
+    },
+    "Composition 1 and Composition 2, 1988" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "التكوين ١ ، التكوين ٢ ، ١٩٨٨"
+          }
+        }
+      }
+    },
+    "Daniele Genadry" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "دانيال جنادري"
+          }
+        }
+      }
+    },
+    "Dark Sea, 2016" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "البحر الاسود، ٢٠١٦"
           }
         }
       }
@@ -155,39 +336,31 @@
         }
       }
     },
-    "Eugène Delacroix" : {
-      "extractionState" : "manual",
+    "Drawing inspiration from photographs, Daniele Genadry blends the photographic record, memory and histories of landscape painting into her work. Her paintings illustrate a highly individual and personal approach to painterly depictions of landscapes." : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إيوجين ديلاكروا"
+            "value" : "مستلهمة الإلهام من الصور الفوتوغرافية، تمزج دانيال جنادري بين السجل الفوتوغرافي والذاكرة وتاريخ رسم المناظر الطبيعية في أعمالها. تظهر لوحاتها نهجاً شخصياً وفردياً عالياً في تصوير المناظر الطبيعية بطريقة تشكيلية."
           }
         }
       }
     },
-    "Eugène Delacroix " : {
+    "El Rayess participated in the Jeddah embellishment intiated by then-mayor Mohammed Sayed Farsi, in collaboration with architect Julio Lafuente. The result of this years-long initiative is often referred to as an (open-air museum) and includes sculptures by invited Arab and international artists. El Rayess' 28-meter-high aluminuim sculpture Column of Light (1981), representing the word (Allah) (SWT), is still visible on a square on Palestine street in Jeddah. The artist's engagement with sculpture and architecture was influenced by his close relationship with architects Hassan Fathy and Fredrich Kiesler, and he produced numerous drawings, models and utopian architectural sketches. Captivated by the light of the Arabian desert, El Rayess a significant series of over 300 hundred landscapes, including paintings and drawings. In Tabuk, he photographed the rock formation of its mountains, villages and ancient ruins. All these elemnts feature in his landscapes as he seeks to capture the desert's changing light, vastness and spiritual dimensiom. El Rayess refers to these formal expiremnts as (Marhalat Al-Noor) or the (Period of Light), during which he undertook numerous studies and trials in capturing the light of the desert." : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إيوجين ديلاكروا"
+            "value" : "شارك عارف الريس في مشروع تجميل جدة الذي بدأه العمدة آنذاك، محمد سعيد فارسي، بالتعاون مع المهندس المعماري جوليو لافوينتي. أسفر هذا المشروع الذي استمر لسنوات عن ما يُشار إليه غالبًا بـ \"المتحف المفتوح\" ويشمل تماثيل من قبل فنانين عرب ودوليين مدعوين. تمثال الريس الألمنيومي البالغ ارتفاعه 28 مترًا، \"عمود النور\" (1981)، الذي يمثل كلمة \"الله\" (سبحانه وتعالى)، لا يزال مرئيًا في ساحة على شارع فلسطين في جدة. تأثر ارتباط الفنان بالنحت والهندسة المعمارية بعلاقته الوثيقة مع المهندسين المعماريين حسن فتحي وفريدريك كيسلر، وقد أنتج العديد من الرسومات والنماذج والتصاميم المعمارية اليوتوبية. مفتونًا بضوء الصحراء العربية، أبدع الريس سلسلة مهمة تضم أكثر من 300 منظر طبيعي، بما في ذلك اللوحات والرسومات. في تبوك، صور تكوينات الصخور للجبال والقرى والأطلال القديمة. تظهر كل هذه العناصر في مناظره الطبيعية حيث يسعى لالتقاط تغير ضوء الصحراء وشساعتها وأبعادها الروحية. يشير الريس إلى هذه التجارب الشكلية بـ \"مرحلة النور\"، حيث قام بالعديد من الدراسات والتجارب في التقاط ضوء الصحراء."
           }
         }
       }
     },
-    "Eugène Delacroix was a French Romantic artist whose works had a profound impact on the 19th-century art scene. Delacroix's interest in art was evident from a young age. He received his early artistic training under the painter Pierre-Narcisse Guérin.In 1815, he entered the École des Beaux-Arts in Paris, where he studied with other influential artists of the time.Eugène Delacroix passed away on August 13, 1863, in Paris, at the age of 65. His death marked the end of an era in French painting." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "الفنان الرومانسي الفرنسي الكبير إيوجين ديلاكروا كانت لأعماله تأثير عميق على مشهد الفن في القرن التاسع عشر. كان اهتمام ديلاكروا بالفن واضحًا منذ صغره، حيث حصل على تدريبه الفني الأول تحت إشراف الرسام بيير-نارسيس جيران.\n\nفي عام 1815، انضم إلى مدرسة الفنون الجميلة في باريس، حيث درس مع فنانين مؤثرين آخرين في ذلك الوقت.\n\n رحيل إيوجين ديلاكروا جاء في 1863 في باريس، عن عمر يناهز 65 عامًا. كانت وفاته  نهاية لحقبة في التاريخ الفني الفرنسي."
-          }
-        }
-      }
+    "Find out the story behind a  painting  3 Taps !" : {
+
     },
     "Find out the story behind a famous painting with a tap!" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -209,10 +382,24 @@
       }
     },
     "Fosa (The Pit), 2022" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "المقبرة ٢٠٢٢"
+          }
+        }
+      }
     },
     "Fosa is part of series in which Iosu Aramburu revists photographs and engravings of 19th and 20th century archaeological explorations in Peru, where ambitous state-funded excavations were pivotal in crafting and shaping the recently independent country's national identity. Aramburu's paintings focus on images of conflict and confrontation between different times, where scientists, politicians, collectors and museum workers pose against artifacts and landscapes that represent the distant past. From the perspective of the landscape, archeaology shares many similarities with mining. The paintings highlight how the pursuit of archeaological knowledge can result in dispossession, appropriation and displacement." : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"المقبرة\" هي جزء من سلسلة يعود فيها إيوسو أرامبورو إلى الصور الفوتوغرافية والنقوش للتنقيبات الأثرية في القرنين التاسع عشر والعشرين في بيرو، حيث كانت التنقيبات الطموحة الممولة من الدولة محورية في تشكيل وصياغة هوية البلاد الوطنية بعد الاستقلال مؤخرًا. تركز لوحات أرامبورو على صور الصراع والمواجهة بين أزمنة مختلفة، حيث يتخذ العلماء والسياسيون والجامعون وعمال المتاحف أوضاعًا مقابل القطع الأثرية والمناظر الطبيعية التي تمثل الماضي البعيد. من منظور المناظر الطبيعية، يشترك الأثر في العديد من الخصائص مع التعدين. تسلط اللوحات الضوء على كيفية أن السعي وراء المعرفة الأثرية يمكن أن يؤدي إلى الحرمان والاستيلاء والتهجير."
+          }
+        }
+      }
     },
     "Get Started" : {
       "localizations" : {
@@ -220,6 +407,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "إبدأ"
+          }
+        }
+      }
+    },
+    "He was born in Mecca in 1939, and lived as an orphan of his father since the age of five, growing up in a poor family. He completed his general education in Mecca and assumed responsibility as the eldest sibling in his family since the age of nine, where he worked in selling balila (a Hejazi dish), guiding pilgrims, and meeting the needs of Hajj pilgrims. He graduated from Al-Aziziya School in 1960. His talent began to emerge early on and he expressed it at the Saudi Scientific Institute in 1958. Driven by the ambition to travel abroad and pursue higher studies, he went to Italy, specifically to the Academy of Fine Arts in Rome." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ولد في مكة عام 1939م، وقد عاش يتيم الأب منذ سن الخامسة ونشأ في أسرة فقيرة. أكمل تعليمه العام في مكة المكرمة وتحمل المسئولية كأخ أكبر لأسرته منذ سن التاسعة، حيث عمل في بيع البليلة (أكلة حجازية) والطوافة وتلبية حاجات الحجاج. تخرج في المدرسة العزيزية في عام 1960. بدأت موهبته بالظهور في وقت مبكر وعبّر عنها في المعهد العلمي السعودي عام 1958. ألح عليه طموح السفر إلى الخارج واستكمال دراساته العليا في إيطاليا، تحديدًا في أكاديمية الفنون الجميلة في روما."
           }
         }
       }
@@ -235,6 +432,7 @@
       }
     },
     "Identify Image" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -245,6 +443,7 @@
       }
     },
     "Image for identification" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -265,6 +464,7 @@
       }
     },
     "Image Identification Result" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -274,38 +474,62 @@
         }
       }
     },
+    "In composition 1 (1988), Hammas captures a glimpse of the old neighborhoods in dim morning light. The painting presents a harmonious interplay of various elements within the urban landscape each blending into another In composition 2( 1988), Hammas continues exploring old houses overlapping one. another depicting their different sizes and the simplicity of one predominant color the presence of blue behind the buildings in varying degrees of light symbolizes the overlap of light and darkness. This interplay between light and heat on the black" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "في \"التكوين 1\" (1988)، يلتقط حماس لمحة من الأحياء القديمة في ضوء الصباح الخافت. تقدم اللوحة تفاعلًا متناغمًا لعناصر مختلفة داخل المشهد الحضري، حيث يندمج كل منها مع الآخر. في \"التكوين 2\" (1988)، يواصل حماس استكشاف المنازل القديمة المتداخلة، مصورًا أحجامها المختلفة وبساطة لون واحد سائد. ترمز وجود اللون الأزرق خلف المباني بدرجات مختلفة من الضوء إلى تداخل الضوء والظلام. هذا التفاعل بين الضوء والحرارة على الأسود..."
+          }
+        }
+      }
+    },
+    "In Thursday Market (1980), Alsabban offers insight into the bustling Thursday markets in Abha, where women engage in selling activities. Employing abstract geometric shapes, Alsabban interconnects architectural motifs, encapsulating the memory of the place. The human figures, positioned along the street, intertwine with the buildings, forming a harmonious visual narrative." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "في \"سوق الخميس\" (1980)، يقدم الصبان رؤية لأسواق الخميس المزدحمة في أبها، حيث تشارك النساء في أنشطة البيع. باستخدام الأشكال الهندسية المجردة، يربط الصبان بين الزخارف المعمارية، مُعَبّراً عن ذكرى المكان. الشخصيات البشرية، الموضوعة على طول الشارع، تتداخل مع المباني، مكونةً سردًا بصريًا متناغمًا."
+          }
+        }
+      }
+    },
+    "In Untitled, the relationship between the Arab man and his heritage and his surroundings is depicted through his signature style of calculated portions of color. Th transperant figure, gazes over the Najd village, symbolizing his relationship with his legacy. Beneath him, there is a grounded curled-up female figure." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "في \"بدون عنوان\"، يُصوّر العلاقة بين الرجل العربي وتراثه ومحيطه من خلال أسلوبه المميز في استخدام نسب محسوبة من الألوان. الشخصية الشفافة، تحدق فوق قرية نجد، رمزاً لعلاقته بإرثه. أسفله، توجد شخصية أنثوية مجعدة على الأرض."
+          }
+        }
+      }
+    },
+    "Indian handmade paper stained with Sumi ink mounted on Arches Cover buff paper. In the prints displayed here, Zarina superimposed strips of paper to recreate what can be interpreted as a passenger's perspective at sea at night. The curved shape repeated at the bottom of both images, evokes the stern of a boat. It is surrounded by darkness except for what appears to be lights on the horizon, a very distant glimmer of hope." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ورق يدوي هندي ملطخ بحبر سومي مثبت على ورق آرشيز كوفر بلون الجاموس. في الطباعات المعروضة هنا، قامت زارينا بتراكب شرائح من الورق لإعادة إنشاء ما يمكن تفسيره على أنه منظور راكب في البحر ليلاً. تثير الشكل المنحني المتكرر في أسفل كلتا الصورتين، مؤخرة قارب. يحيط بها الظلام باستثناء ما يبدو أنه أضواء على الأفق، وميض بعيد جداً للأمل."
+          }
+        }
+      }
+    },
     "Iosu Aramburu" : {
-
-    },
-    "Leonardo da Vinci" : {
-      "extractionState" : "manual",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ليوناردو دا فينشي"
+            "value" : "إيوسو  أرامبورو"
           }
         }
       }
     },
-    "Leonardo da Vinci was a polymath of the Italian Renaissance, excelling in various fields such as painting, sculpture, anatomy, engineering, mathematics, and architecture. His life story is rich and multifaceted,eonardo was born in Vinci, Italy, as the illegitimate son of Ser Piero da Vinci, a notary, and Caterina, a peasant woman. He spent his early years in Vinci and later moved to Florence.Leonardo da Vinci passed away on May 2, 1519, at the age of 67, at Clos Lucé. The exact cause of his death is uncertain, but it is believed to be related to a stroke." : {
-      "extractionState" : "manual",
+    "Lebanese artist Arif El Rayess lived in Saudi Arabia from 1981 to 1989, during which he spent time in Jeddah, Riyadh, Tabuk and Al-Madinah Al-Munawwarah. An itinerant and prolific artist, he engaged with sculpture and architecture in a post-oil boom Saudi Arabia, where the kingdom's main cities were undergoing major beautification projects. " : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\nليوناردو دا فينشي كان رجل متعدد المواهب من عصر النهضة الإيطالية، حيث تألق في مجالات متعددة مثل الرسم، والنحت، وعلم التشريح، والهندسة، والرياضيات، والهندسة المعمارية. قصة حياته غنية ومتعددة الجوانب، إذ وُلد ليوناردو في فينشي بإيطاليا، كابن غير شرعي لسير بييرو دا فينشي، الكاتب العدل، وكاترينا، امرأة ريفية. قضى سنواته الأولى في فينشي ثم انتقل لاحقًا إلى فلورنسا.\n\nرحل ليوناردو دا فينشي عن عالمنا في 2 مايو 1519م، عن عمر يناهز الـ67 عامًا في كلوس لوسيه. السبب الدقيق لوفاته غير معروف، ولكن يُعتقد أنها كانت ناتجة عن سكتة دماغية."
-          }
-        }
-      }
-    },
-    "Mona Lisa" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "موناليزا"
+            "value" : " الفنان اللبناني عارف الريس عاش في السعودية من عام 1981 إلى عام 1989، خلال هذه الفترة قضى وقتاً في جدة والرياض وتبوك والمدينة المنورة. كان عارف الريس فنانًا متنقلًا ومثمرًا، وقد انخرط في النحت والعمارة في السعودية بعد ازدهار النفط، حيث كانت المدن الرئيسية في المملكة تخضع لمشاريع تجميل كبرى."
           }
         }
       }
@@ -316,6 +540,26 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "صورة موناليزا"
+          }
+        }
+      }
+    },
+    "Mounirah Mosley" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "منيرة موصلي"
+          }
+        }
+      }
+    },
+    "Mounirah Mosley explores unconventional mediums in her practice. She expiremnts with various materials such as handmade paper, natural dyes, copper, palm trees, wood and papyrus to create vibrant works that reflect Saudi traditions. Mosley connects her personal experiences and observations to broader social and political contexts." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تستكشف مونيرة موسلي وسائط غير تقليدية في ممارستها الفنية. تجرب مواد متنوعة مثل الورق اليدوي، الأصباغ الطبيعية، النحاس، أشجار النخيل، الخشب والبردي لإنشاء أعمال فنية نابضة بالحياة تعكس التقاليد السعودية. تربط موسلي تجاربها الشخصية وملاحظاتها بالسياقات الاجتماعية والسياسية الأوسع."
           }
         }
       }
@@ -343,6 +587,7 @@
       }
     },
     "Navigate to painting info page" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -383,8 +628,98 @@
         }
       }
     },
+    "Oil on canvas. his artwork presents a stylized desert landscape with a mixture of architecture and nature. In the foreground, there's a vibrant green strip of vegetation, possibly farmland. The middle ground features an assortment of buildings with simple, modernist shapes. Some resemble traditional dwellings, while others are more abstract, geometric forms. In the background, muted brown mountains rise under a pale sky, giving a sense of vast, open space. The color palette is subdued, with the exception of the greenery, which stands out against the earthy tones. The painting is set against a warm, orange backdrop that frames and accentuates the desert hues." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على قماش. تقدم هذه الأعمال الفنية منظراً صحراوياً مجرداً بمزيج من العمارة والطبيعة. في المقدمة، هناك شريط أخضر نابض بالحياة من النباتات، ربما يكون أرضاً زراعية. يعرض المنتصف تشكيلة متنوعة من المباني ذات أشكال بسيطة وحديثة. بعضها يشبه المساكن التقليدية، بينما البعض الآخر يأخذ أشكالاً أكثر تجريداً وهندسية. في الخلفية، ترتفع جبال بنية خافتة تحت سماء شاحبة، معطيةً إحساساً بالمساحة الواسعة والمفتوحة. لوحة الألوان خافتة، باستثناء الخضرة التي تبرز مقابل الألوان الأرضية. اللوحة موضوعة ضمن خلفية برتقالية دافئة تبرز وتحدد ألوان الصحراء."
+          }
+        }
+      }
+    },
+    "Oil on canvas. In 'Our Generous Land' (1980), Almasari depicts the land, desert dunes, and mountains in an abstract way. Employing a color palette of reds and blues with geomatric shapes and sharp lines, he harmonises the convergence of spaces. The geomatric shapes also contribute to the optical illusion that he seeks to achieve. " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على قماش. في \"أرضنا الكريمة\" (1980)، يصور المساري الأرض وكثبان الصحراء والجبال بطريقة مجردة. يستخدم لوحة ألوان من الأحمر والأزرق مع أشكال هندسية وخطوط حادة، ينسجم فيها تلاقي الفضاءات. تساهم الأشكال الهندسية أيضًا في الوهم البصري الذي يسعى لتحقيقه."
+          }
+        }
+      }
+    },
+    "Oil on canvas. In Bullders (1977), two men are depicted wearing traditional attire as they carry construction materials. Alsoliman employs a Cubist style to transform the two builders into angular forms that intersect and overlap." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على قماش. في \"فوسا\"، يقف فريق من الأثريين فوق الأرض التي تحتفظ بالتاريخ الذي يهدفون إلى كشفه. تصور هذه اللوحة مجموعة من الشخصيات المجردة ذات الأسلوب الهندسي بملابس رسمية، واقفين على أرض جبلية ذات درجات لونية باردة. يضيف التباين بين ضوء الشمس الدافئ والأزرق والرمادي للمناظر الطبيعية عمقاً. الوجوه غير واضحة، مما يؤكد على موقف الشخصيات التأملي ضمن الفرشاة التعبيرية للمحيط. الجو العام تأملي وجاد."
+          }
+        }
+      }
+    },
     "Oil on canvas. In Fosa, a party of archaeologists stand above the ground that holds the history they aim to unearth. This painting depicts a group of abstract, geometrically-styled figures in formal attire, standing in a cool-hued, mountainous terrain. The contrast of warm sunlight against the blues and greys of the landscape adds depth. Faces are indistinct, emphasizing the figures' contemplative stance within the expressive brushwork of the surroundings. The overall mood is introspective and solemn." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على قماش. في \"المقبرة\"، يقف فريق من الأثريين فوق الأرض التي تحتفظ بالتاريخ الذي يهدفون إلى اكتشافه. تصور هذه اللوحة مجموعة من الشخصيات المجردة ذات الأسلوب الهندسي بملابس رسمية، واقفين على أرض جبلية ذات درجات لونية باردة. يضيف التباين بين ضوء الشمس الدافئ والأزرق والرمادي للمناظر الطبيعية عمقاً. الوجوه غير واضحة، مما يؤكد على موقف الشخصيات التأملي ضمن الفرشاة التعبيرية للمحيط. الجو العام تأملي وجاد."
+          }
+        }
+      }
+    },
+    "Oil on canvas. The painting portrays an abstracted landscape with a dichotomy of nature and architecture. In the foreground, lush greenery suggests fertile land, while the background consists of soft brown mountains under a light sky. Between these two, various geometric and modernist structures in muted colors are scattered across a desert-like expanse, suggesting human habitation or industry amidst the vastness. The overall palette is dominated by earth tones with a splash of green, conveying a serene yet perhaps surreal scene." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على قماش. تصور اللوحة منظراً طبيعياً مجرداً مع ثنائية الطبيعة والعمارة. في المقدمة، يشير الخضرة الكثيفة إلى أرض خصبة، بينما يتكون الخلفية من جبال بنية ناعمة تحت سماء فاتحة. بين هذين، هناك هياكل هندسية وحديثة بألوان خافتة متناثرة عبر مساحة تشبه الصحراء، مما يوحي بالسكن البشري أو الصناعة وسط الفسحة الشاسعة. يسيطر على اللوحة الألوان الأرضية مع لمسة من الأخضر، مما ينقل مشهداً هادئاً وربما سريالياً."
+          }
+        }
+      }
+    },
+    "Oil on canvas. Untitled (1988) presents a night of jubilation, as men stand holding the (teeran), a traditional Arabic percussion instrument. The men, dressed in local attire, become part of a vibrant tableau. The focal point lies at the center of the composition, with men and their drums arranged in a flowing formation, while the background fades Into a washed-out orange hue." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على قماش. اللوحة بدون عنوان (1988) تقدم ليلة من الابتهاج، حيث يقف الرجال ممسكين بـ (الطيران)، وهو آلة إيقاعية تقليدية عربية. الرجال، مرتدين الزي المحلي، يصبحون جزءًا من لوحة نابضة بالحياة. يقع نقطة التركيز في وسط التكوين، مع ترتيب الرجال وطبولهم في تشكيل منساب، بينما يتلاشى الخلفية إلى درجة برتقالية باهتة."
+          }
+        }
+      }
+    },
+    "Oil on paper.The one on the left features a complex interplay of dark and neutral tones, with overlapping geometric shapes that create an almost architectural feel. The right painting contrasts with brighter blues and yellows, yet it also employs geometric abstraction to depict what could be an urban landscape. Both works play with form and space, creating depth and rhythm through the juxtaposition of shapes and colors." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على ورق. اللوحة على اليسار تتميز بتداخل معقد بين الألوان الداكنة والمحايدة، مع أشكال هندسية متداخلة تخلق شعوراً بالهندسة المعمارية. اللوحة على اليمين تتناقض بألوان أزرق وأصفر أكثر إشراقاً، ولكنها أيضاً تستخدم التجريد الهندسي لتصوير ما يمكن أن يكون منظراً حضرياً. تعمل كلتا اللوحتين مع الشكل والفضاء، خلقاً للعمق والإيقاع من خلال التجاور بين الأشكال والألوان."
+          }
+        }
+      }
+    },
+    "Oil on wood ###" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زيت على خشب"
+          }
+        }
+      }
+    },
+    "Open your Camera" : {
 
+    },
+    "Our Generous Land (The Spring of Generousity), 1980" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أرضنا العطاء نبع الكرم ،١٩٨٠"
+          }
+        }
+      }
     },
     "Painting Description" : {
       "localizations" : {
@@ -396,52 +731,15 @@
         }
       }
     },
-    "painting description : The painting depicts a woman, widely believed to be Lisa Gherardini, the wife of Florentine merchant Francesco del Giocondo,The subject is shown sitting against a distant landscape with a winding river and a bridge.She is positioned in a three-quarter view, with her body turned slightly and her gaze fixed on the viewer,One of the most captivating aspects of the painting is the subject's enigmatic smile, which has been a subject of much discussion and interpretation,The woman is dressed in a modest, dark-colored gown, and she wears a veil or headscarf.Her clothing is characteristic of the fashion of the time, reflecting the early 16th century.The background of the painting features a landscape with a winding river, distant mountains, and a bridge.The landscape creates a sense of depth and adds to the overall atmosphere of the painting." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "اللوحة تصور امرأة، يُعتقد على نطاق واسع أنها ليزا غيرارديني، زوجة التاجر الفلورنسي فرانشيسكو ديل جيوكوندو. تظهر المرأة جالسة أمام منظر بعيد يظهر نهرًا متعرجًا وجسرًا.\nتظهر بزاوية ثلاثية ربعية، حيث يكون جسمها مستديرًا قليلاً وتكون نظرتها موجهة نحو المشاهد. واحدة من أكثر جوانب اللوحة إثارة للاهتمام هي ابتسامتها الغامضة، والتي كانت موضوعًا للكثير من النقاش والتفسير.\nترتدي المرأة ثوبًا متواضعًا بألوان داكنة وتضع حجابًا أو شالًا على رأسها. ملابسها تميزها كما كانت الموضة في تلك الفترة في بدايات القرن السادس عشر.\nتظهر خلفية اللوحة منظرًا طبيعيًا يتضمن نهرًا متعرجًا، وجبالًا بعيدة، وجسرًا. يخلق المنظر الطبيعي شعورًا بالعمق ويضيف إلى الجو العام للوحة."
-          }
-        }
-      }
-    },
-    "painting description : The painting features a harem-like setting, portraying an intimate scene within the private quarters of Algerian women.The composition is intricate and dynamic, with several women engaged in various activities. Delacroix carefully arranged the figures to create a harmonious yet vibrant tableau.The central focus is on a reclining woman in the foreground, adorned with sumptuous fabrics and jewelry. Her pose exudes a sense of languor and sensuality.Other women are depicted around her, engaged in activities such as playing musical instruments, reading, and conversing. Each figure is dressed in luxurious garments, contributing to the overall opulence of the scene.Delacroix employed a rich and vibrant color palette, characterized by intense reds, blues, and golds. The colors contribute to the exotic and luxurious atmosphere of the painting.The patterns on the textiles, the tiles on the floor, and the details of the women's clothing showcase Delacroix's meticulous attention to color and design.The interior of the apartment is adorned with intricate decorations, textiles, and objects. Delacroix used these details to enhance the overall richness and exoticism of the scene.The architectural elements, including the archways and windows, add depth and perspective to the composition." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "اللوحة تصور إعدادًا لنساء ، حيث تظهر مشهدًا حميميًا داخل الردهة الخاصة بالنساء الجزائريات. تكوين اللوحة دقيق وديناميكي، مع عدة نساء مشغولات بأنشطة مختلفة. قام ديلاكروا بترتيب الشخصيات بعناية لخلق لوحة متناغمة وحية في الوقت نفسه. يعد التركيز الرئيسي في اللوحة على امرأة مستلقية في المقدمة، مزينة بأقمشة ومجوهرات فاخرة. تتناغم وضعيتها بشعور بالكسل. تم تصوير نساء آخريات من حولها، مشغولات في أنشطة مثل العزف على الآلات الموسيقية والقراءة والمحادثة. ترتدي كل شخصية ثيابًا فاخرة، مما يسهم في إضفاء طابع الفخامة العامة على المشهد. استخدم ديلاكروا لوحة ألوان غنية وحية، تتميز بالأحمر والأزرق والذهبي. تساهم الألوان في الأجواء الغريبة والفاخرة للوحة. تعكس الأنماط على النسيج، والبلاط على الأرض، وتفاصيل ملابس النساء انتباه ديلاكروا الدقيق للألوان والتصميم. تزين الشقة بديكورات معقدة ونسيج وأشياء. استخدم ديلاكروا هذه التفاصيل لتعزيز الثراء والغرابة العامة للمشهد. تضيف العناصر المعمارية، بما في ذلك القوسين والنوافذ، عمقًا ومنظورًا لتكوين اللوحة."
-          }
-        }
-      }
-    },
-    "painting description : The painting is large in scale, measuring about 6.77 meters by 9.94 meters.The composition is grand and opulent, reflecting the festive nature of the wedding celebration.The scene is filled with a multitude of figures engaged in dynamic and theatrical activities.The central focus is on Jesus, Mary, and the young couple getting married. They are positioned prominently within the composition.Mary, wearing a blue robe, is gesturing toward Jesus, directing attention to him.Jesus is shown at the moment of performing the miracle, with a servant pouring water into a large container.Veronese employed a rich and vibrant color palette, with a harmonious interplay of colors.The clothing of the figures is adorned with luxurious fabrics, and the overall ambiance is one of opulence and celebration. The painting is rich in details, including intricate patterns on the clothing, elaborate architectural elements, and various objects that contribute to the sense of festivity. The facial expressions of the figures convey a range of emotions, from joyous celebration to curiosity." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تعد اللوحة كبيرة في حجمها، حيث تبلغ حوالي 6.77 متر في 9.94 متر. تكوين اللوحة كبير وفخم، يعكس الطابع الاحتفالي لحفل الزفاف. المشهد في اللوحة مليء بالعديد من الشخصيات المشاركة في أنشطة ديناميكية ومسرحية. التركيز الأساسي في اللوحة على يسوع، ومريم، والزوجين الشابين اللذين يتزوجان. يتم وضعهم بشكل بارز داخل تكوين اللوحة.\nمريم، التي ترتدي ثوبًا أزرق، تشير نحو يسوع، موجهة انتباه الجميع إليه.\nيُظهر يسوع في لحظة أداء المعجزة، حيث يصب خادم ماءً في وعاء كبير.\nاستخدم فيرونيزي مجموعة من الألوان الغنية والحية، مع تفاعل متناغم للألوان.\nثياب الشخصيات مزينة بأقمشة فخمة، والأجواء العامة تعكس الثراء والاحتفالية.\nاللوحة غنية بالتفاصيل، بما في ذلك الأنماط المعقدة على الملابس والعناصر المعمارية المتقنة والأشياء المختلفة التي تساهم في الشعور بالاحتفال.\nتعبر تعابير الوجوه للشخصيات عن مجموعة من المشاعر، من الاحتفال الفرحان إلى الفضول."
-          }
-        }
-      }
-    },
-    "painting description :The color palette is dominated by earthy tones, with a focus on browns, grays, and muted colors, creating a somber and desolate atmosphere.The use of muted colors contributes to the realism of the scene, emphasizing the harshness of the survivors' plight.Géricault paid careful attention to capturing the psychological and emotional states of the figures. Faces show a range of emotions, including anguish, desperation, and resignation.The expressions on the faces of the figures contribute to the overall emotional impact of the painting, eliciting empathy from the viewer." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "يهيمن على اللوحة مجموعة الألوان  من الدرجات الأرضية، مع التركيز على اللون البني والرمادي والألوان المُخملية، مما يخلق جوًا مكتئبًا ومائلاً نحو الخراب.\n\nاستخدام الألوان المُخملية يُساهم في واقعية المشهد، مُؤكدًا قسوة محنة الناجين.\n\nأولى جيريكو اهتمامًا فائقًا بالتقاط الحالات النفسية والعاطفية للشخصيات. الوجوه تظهر مجموعة من المشاعر، بما في ذلك الحزن واليأس والاستسلام.\n\nتعبيرات الوجوه للشخصيات تُسهم في الأثر العاطفي الشامل للوحة، مما يستحضر التعاطف من المشاهد."
-          }
-        }
-      }
-    },
     "Painting Description:" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "وصف اللوحة"
+          }
+        }
+      }
     },
     "Painting Name" : {
       "localizations" : {
@@ -464,7 +762,14 @@
       }
     },
     "Painting Story:" : {
-
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "قصة اللوحة"
+          }
+        }
+      }
     },
     "paintingDescription:" : {
       "extractionState" : "stale",
@@ -510,28 +815,6 @@
         }
       }
     },
-    "Paolo Veronese" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "باولو فيرونيزي"
-          }
-        }
-      }
-    },
-    "Paolo Veronese, born Paolo Caliari, was an Italian Renaissance painter renowned for his grand and opulent compositions, vivid colors, and masterful use of perspective. Paolo began his artistic training under the local artist Antonio Badile. He also studied the works of other Renaissance masters such as Titian and Giorgione.Paolo Veronese passed away on April 19, 1588, in Venice, at the age of 60. He was buried in the church of San Sebastiano." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "باولو فيرونيزي، المولود باولو كالياري، كان رسام في عصر النهضة الإيطالية، شهير بتكويناته الكبرى والفاخرة، وألوانه الزاهية، واستخدامه الماهر للمنظور. باولو بدأ تدريبه الفني تحت إشراف الفنان المحلي أنطونيو باديلي. كما درس أيضًا أعمال أساتذة عصر النهضة الآخرين مثل تيتيان وجورجيوني.\n\nتُوفي باولو فيرونيزي في 19 أبريل 1588 في البندقية عن عمر يناهز 60 عامًا. دُفن في كنيسة سان سيباستيانو."
-          }
-        }
-      }
-    },
     "recognize" : {
       "extractionState" : "stale",
       "localizations" : {
@@ -544,11 +827,32 @@
       }
     },
     "Result of the identification" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "نتيجة التعرف"
+          }
+        }
+      }
+    },
+    "Saad Almasari" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سعد المسعري"
+          }
+        }
+      }
+    },
+    "Saad Almasari's works span various mediums and styles, including ceramics, bronze sculptures, oil paintings, watercolors and acrylics. He draws inspiration from memories, local heritage, architecture, socitey and the Saudi environment. The artist integerates the flatness of traditional islamic arts and infuses modernity by incorporating optical illusions.  " : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "أعمال سعد المسعري تمتد عبر وسائط وأساليب متعددة، بما في ذلك الخزف، وتماثيل البرونز، واللوحات الزيتية، والألوان المائية والأكريليك. يستلهم إلهامه من الذكريات، والتراث المحلي، والعمارة، والمجتمع والبيئة السعودية. يدمج الفنان بين مسطحية الفنون الإسلامية التقليدية ويدخل الحداثة من خلال إدراج الوهم البصري."
           }
         }
       }
@@ -574,18 +878,31 @@
         }
       }
     },
-    "Starry Night" : {
-      "extractionState" : "manual",
+    "Still Life with Fish, 1975" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ليلة النجوم"
+            "value" : "صورة زيتية مع السمك ،١٩٧٥"
           }
         }
       }
     },
+    "Taha Alsabban" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "طه الصبان "
+          }
+        }
+      }
+    },
+    "Take a picture" : {
+
+    },
     "Tap to start image Identification" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -595,198 +912,102 @@
         }
       }
     },
-    "The artist history : Eugène Delacroix was a French Romantic artist whose works had a profound impact on the 19th-century art scene. Delacroix's interest in art was evident from a young age. He received his early artistic training under the painter Pierre-Narcisse Guérin.In 1815, he entered the École des Beaux-Arts in Paris, where he studied with other influential artists of the time.Eugène Delacroix passed away on August 13, 1863, in Paris, at the age of 65. His death marked the end of an era in French painting." : {
+    "The Land of Solidities (1970) may suggest a commentary on gender roles, or identity. It pays homage to the art historical tradition of including women in the landscape. Th e expressive color palette of the painting evokes the rich visual and cultural landscape of Saudi Arabia. This use of color creates a sense of tranquility of the natural surroundings. In the foreground, there is a figure resembling a woman fully covered with a black abaya, exuding mystery and anonymity. The presence of the necklace indicates personal expression despite the covered appearance." : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الفنان الرومانسي الفرنسي الكبير إيوجين ديلاكروا كانت لأعماله تأثير عميق على مشهد الفن في القرن التاسع عشر. كان اهتمام ديلاكروا بالفن واضحًا منذ صغره، حيث حصل على تدريبه الفني الأول تحت إشراف الرسام بيير-نارسيس جيران.\n\nفي عام 1815، انضم إلى مدرسة الفنون الجميلة في باريس، حيث درس مع فنانين مؤثرين آخرين في ذلك الوقت.\n\n رحيل إيوجين ديلاكروا جاء في 1863 في باريس، عن عمر يناهز 65 عامًا. كانت وفاته  نهاية لحقبة في التاريخ الفني الفرنسي."
+            "value" : "قد تشير لوحة \"أرض الجمود\" (1970) إلى تعليق على أدوار الجنسين أو الهوية. تقدم اللوحة تحية للتقليد التاريخي الفني الذي يتضمن تصوير النساء في المناظر الطبيعية. يثير الطيف اللوني التعبيري للوحة الغنى البصري والثقافي للمشهد السعودي. يخلق هذا الاستخدام للألوان إحساسًا بالهدوء في البيئة الطبيعية. في المقدمة، يوجد شكل يشبه امرأة مغطاة بالكامل بعباءة سوداء، تنضح بالغموض والتجهيل. تدل وجود القلادة على التعبير الشخصي بالرغم من المظهر المغطى."
           }
         }
       }
     },
-    "The artist history : Paolo Veronese, born Paolo Caliari, was an Italian Renaissance painter renowned for his grand and opulent compositions, vivid colors, and masterful use of perspective. Paolo began his artistic training under the local artist Antonio Badile. He also studied the works of other Renaissance masters such as Titian and Giorgione.Paolo Veronese passed away on April 19, 1588, in Venice, at the age of 60. He was buried in the church of San Sebastiano." : {
+    "The Land of Solidities, 1970" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "باولو فيرونيزي، المولود باولو كالياري، كان رسام في عصر النهضة الإيطالية، شهير بتكويناته الكبرى والفاخرة، وألوانه الزاهية، واستخدامه الماهر للمنظور. باولو بدأ تدريبه الفني تحت إشراف الفنان المحلي أنطونيو باديلي. كما درس أيضًا أعمال أساتذة عصر النهضة الآخرين مثل تيتيان وجورجيوني.\n\nتُوفي باولو فيرونيزي في 19 أبريل 1588 في البندقية عن عمر يناهز 60 عامًا. دُفن في كنيسة سان سيباستيانو."
-          }
-        }
-      }
-    },
-    "The artist history :Théodore Géricault was a French Romantic painter known for his dramatic and emotionally charged works.Théodore Géricault was born on September 26, 1791, in Rouen, France, into a wealthy and socially prominent family.Géricault's personal life was marked by financial difficulties and health issues. He was known for his intense and passionate personality, which sometimes led to conflicts with others." : {
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"طوفان الميدوز\" هي لوحة ضخمة أُنشئت من قبل الفنان الرومانسي الفرنسي ثيودور جيريكو في عام 1819. تُصور اللوحة حدثًا مأساويًا من تاريخ البحرية الفرنسية، ويعرف باسم غرق فرقاطة ميدوز في عام 1816. رسم ثيودور جيريكو \"طوفان الميدوز\" كاستجابة لحدث مأساوي ومثير للجدل في تاريخ البحرية الفرنسية - غرق فرقاطة ميدوز في عام 1816. هناك عدة أسباب دفعت جيريكو لتصوير هذا الحدث الخاص في عمله الفني: كان جيريكو متأثرًا بشدة بالمعاناة البشرية والمأساة التي شهدتها السفينة أثناء الغرق. تحمل الناجون ظروفًا قاسية، بما في ذلك الجوع والعطش والتعرض وحتى اللجوء إلى الأكل من لحوم البشر. شعر جيريكو بالتعاطف والرحمة نحو الضحايا، وسعى إلى جذب الانتباه إلى معاناتهم."
-          }
-        }
-      }
-    },
-    "The artist history: Leonardo da Vinci was a polymath of the Italian Renaissance, excelling in various fields such as painting, sculpture, anatomy, engineering, mathematics, and architecture. His life story is rich and multifaceted,eonardo was born in Vinci, Italy, as the illegitimate son of Ser Piero da Vinci, a notary, and Caterina, a peasant woman. He spent his early years in Vinci and later moved to Florence.Leonardo da Vinci passed away on May 2, 1519, at the age of 67, at Clos Lucé. The exact cause of his death is uncertain, but it is believed to be related to a stroke." : {
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "السبب الدقيق لرسم ليوناردو دا فينشي لوحة \"موناليزا\" ليس معروفًا بشكل قاطع، وكان هذا الموضوع مصدرًا للتكهنات والنقاش بين علماء التاريخ الفني. بدأ ليوناردو دا فينشي العمل على اللوحة حوالي عام 1503م، ويُعتقد أنها طُلبت منه من قبل تاجر فلورنسي ثري يُدعى فرانشيسكو ديل جيوكوندو، الذي يُعتقد أن زوجته ليزا غيرارديني هي موضوع اللوحة."
-          }
-        }
-      }
-    },
-    "the Mona Lisa story : The exact reason why Leonardo da Vinci painted the Mona Lisa is not definitively known, and the subject has been a source of speculation and debate among art historians. Leonardo da Vinci began working on the painting around 1503, and it is believed to have been commissioned by a wealthy Florentine merchant named Francesco del Giocondo, whose wife, Lisa Gherardini, is thought to be the subject of the portrait." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "السبب الدقيق لرسم ليوناردو دا فينشي لوحة \"موناليزا\" ليس معروفًا بشكل قاطع، وكان هذا الموضوع مصدرًا للتكهنات والنقاش بين علماء التاريخ الفني. بدأ ليوناردو دا فينشي العمل على اللوحة حوالي عام 1503م، ويُعتقد أنها طُلبت منه من قبل تاجر فلورنسي ثري يُدعى فرانشيسكو ديل جيوكوندو، الذي يُعتقد أن زوجته ليزا غيرارديني هي موضوع اللوحة."
-          }
-        }
-      }
-    },
-    "The painting features a night sky dominated by swirling, turbulent patterns of stars. The sky occupies the upper two-thirds of the canvas, creating a cosmic and expansive feeling.The landscape below includes a cypress tree on the left side, a steepled village with red-roofed buildings, and a mountainous backdrop.Van Gogh employed a rich and vibrant color palette, with bold and intense hues. The sky is dominated by deep blues and purples, while the stars are depicted in bright, swirling yellows.The village and landscape below are rendered in darker tones, creating a contrast with the radiant night sky.The stars in the night sky are a central motif of the painting. They are depicted with swirling, circular motions, creating a dynamic and mesmerizing effect.The stars seem to pulsate with energy, conveying a sense of cosmic movement and vitality.Van Gogh's characteristic impasto technique is evident in the thick and textured application of paint. The swirling patterns in the sky and the expressive brushstrokes contribute to the sense of movement and emotion.The impasto technique adds a tactile quality to the painting, inviting viewers to engage with the surface." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "تتميز اللوحة بسماء ليلية مهيمنة بأنماط دوامة من النجوم. تشغل السماء ثلثي الجزء العلوي من اللوحة، مما يخلق شعورًا كونيًا وواسعًا. المناظر الطبيعية في أدنى اللوحة تشمل شجرة سرو على الجانب الأيسر، وقرية بها مبانٍ بأسقف حمراء، وخلفية جبلية. استخدم فان جوخ لوحة ألوان غنية ونابضة بالحياة، ذات ألوان جريئة ومكثفة. السماء مهيمنة بدرجات  اللون الأزرق العميق والأرجواني، بينما تُصوّر النجوم بدرجات لون أصفر ساطعة تتداخل بشكل دوّام. القرية والمناظر الطبيعية أدناه مُعبر عنها بألوان داكنة، مما يخلق تباينًا مع السماء الليلية المشعة. النجوم في السماء الليلية هي موضوع مركزي في اللوحة. تم تصويرها بحركات دائرية ودوامات، مما يخلق تأثيرًا ديناميكيًا وساحرًا. تبدو النجوم كأنها تنبض بالطاقة، مما ينقل شعورًا بالحركة والحيوية الكونية. تظهر تقنية الإمباستو المميزة لفان جوخ في طريقة وضع كمية سميكة من الطلاء مكونة بنية وملمس ظاهر له. الأنماط الدوامية في السماء واللمسات الفنية التعبيرية تساهم في الشعور بالحركة والعاطفة. تقنية الإمباستو تضيف جودة لمسية للوحة، مما يدعو المشاهدين إلى التفاعل مع سطح اللوحة."
-          }
-        }
-      }
-    },
-    "The Raft of the Medusa" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "طوفان الميدوز"
-          }
-        }
-      }
-    },
-    "The Raft of the Medusa story : is a monumental painting created by the French Romantic artist Théodore Géricault in 1819. The painting depicts a tragic event from French naval history, known as the wreck of the frigate Méduse in 1816. Théodore Géricault painted The Raft of the Medusa as a response to a tragic and controversial event in French naval history—the wreck of the frigate Méduse in 1816. There are several reasons why Géricault chose to depict this specific event in his artwork:éricault was deeply moved by the human suffering and tragedy that unfolded during the shipwreck. The survivors endured extreme conditions, including hunger, thirst, exposure, and even resorting to cannibalism. Géricault felt a sense of empathy and compassion for the victims, and he sought to bring attention to their plight." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "\"طوفان الميدوز\" هي لوحة ضخمة أُنشئت من قبل الفنان الرومانسي الفرنسي ثيودور جيريكو في عام 1819. تُصور اللوحة حدثًا مأساويًا من تاريخ البحرية الفرنسية، ويعرف باسم غرق فرقاطة ميدوز في عام 1816. رسم ثيودور جيريكو \"طوفان الميدوز\" كاستجابة لحدث مأساوي ومثير للجدل في تاريخ البحرية الفرنسية - غرق فرقاطة ميدوز في عام 1816. هناك عدة أسباب دفعت جيريكو لتصوير هذا الحدث الخاص في عمله الفني: كان جيريكو متأثرًا بشدة بالمعاناة البشرية والمأساة التي شهدتها السفينة أثناء الغرق. تحمل الناجون ظروفًا قاسية، بما في ذلك الجوع والعطش والتعرض وحتى اللجوء إلى الأكل من لحوم البشر. شعر جيريكو بالتعاطف والرحمة نحو الضحايا، وسعى إلى جذب الانتباه إلى معاناتهم."
-          }
-        }
-      }
-    },
-    "The Starry Night is one of Vincent van Gogh's most famous and iconic paintings. Painted in June 1889, it is considered a masterpiece of Post-Impressionist art. Vincent van Gogh painted The Starry Night while he was a patient at the Saint-Paul-de-Mausole asylum in Saint-Rémy-de-Provence, France. He created the work from memory and imagination rather than directly observing the night sky.During his time in Saint-Rémy, Van Gogh experienced periods of emotional turbulence and struggled with mental health issues. It is believed that the swirling, dynamic composition of The Starry Night reflects his inner emotional state." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "لوحة \"ليلة النجوم\" هي واحدة من أشهر لوحات فنسنت فان جوخ وأيقوناته الأكثر شهرة. رسمت في يونيو 1889، وتُعتبر تحفة فنية في فن ما بعد الانطباعية. رسم فنسنت فان جوخ \"ليلة النجوم\" أثناء إقامته كمريض في مصحة سان بول دي موزول في سان ريمي دو بروفانس بفرنسا. رسم اللوحة من الذاكرة والخيال بدلاً من مراقبة السماء في الليل مباشرة.\n\nخلال وقته في سان ريمي، عاش فان جوخ فترات من الاضطراب العاطفي وصارع مع مشاكل الصحة العقلية. يُعتقد أن التكوين الدوراني والديناميكي في \"ليلة النجوم\" يعكس حالته العاطفية الداخلية."
-          }
-        }
-      }
-    },
-    "The Wedding at Can story : The story of The Wedding at Cana is a biblical narrative found in the Gospel of John, specifically in John 2:1-11. The account describes a wedding feast in the town of Cana in Galilee, where Jesus performed his first public miracle. Jesus and his disciples, along with his mother Mary, were invited to a wedding feast in the town of Cana. During the celebration, the hosts ran out of wine. In the cultural context of the time, running out of wine during a wedding feast was a significant and embarrassing issue. Mary, the mother of Jesus, was aware of the situation and approached her son. She simply told him, They have no more wine.Initially, Jesus responded somewhat cryptically to his mother, saying, Woman, what does this have to do with me? My hour has not yet come. Some interpretations suggest that Jesus was indicating that his public ministry and the manifestation of his divine power were not to be initiated at that moment." : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "قصة هذه اللوحة ذكرت في الإنجيل تحكي عن حفل زفاف في بلدة اسمها قانا، حيث شارك  عيسى (عليه السلام) في هذا الحفل. في وسط الاحتفال، نفد النبيذ، وهذا كان أمرًا محرجًا.\n\nوالدة عيسى، مريم، أخبرت ابنها بالمشكلة، وكان رد عيسى غامضًا في البداية. ومع ذلك، قام بمعجزة فحول الماء إلى نبيذ لذيذ. هذه القصة تظهر قدرة عيسى على فعل معجزات وكرمه تجاه الآخرين.\n\nيُؤكد أن هذه القصة جزء من التقاليد المسيحية وتبرز قيم الرحمة والفهم لاحتياجات الناس. يتم استخدام هذه القصة لتعزيز الإيمان والتفاؤل في وجه التحديات في المعتقدات المسيحيه ."
-          }
-        }
-      }
-    },
-    "The Wedding at Cana" : {
-      "extractionState" : "manual",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "زفاف قانا"
+            "value" : "أرض الجمود، ١٩٧٠"
           }
         }
       }
     },
     "The work of Iosu Aramburu (born in Lima in 1986) revolves around modernity as an aesthetic, architectural and philosophical paradigm. From the reinterpretations of modern languages, Aramburu seeks to question the failures of the modern project" : {
-
-    },
-    "Théodore Géricault" : {
-      "extractionState" : "manual",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ثيودور جيريكو "
+            "value" : "تدور أعمال إيوسو أرامبورو (الذي ولد في ليما عام 1986) حول الحداثة كنموذج جمالي ومعماري وفلسفي. من خلال إعادة تفسير لغات الحداثة، يسعى أرامبورو إلى التساؤل عن إخفاقات المشروع الحداثي."
           }
         }
       }
     },
-    "Théodore Géricault was a French Romantic painter known for his dramatic and emotionally charged works.Théodore Géricault was born on September 26, 1791, in Rouen, France, into a wealthy and socially prominent family.Géricault's personal life was marked by financial difficulties and health issues. He was known for his intense and passionate personality, which sometimes led to conflicts with others." : {
-      "extractionState" : "manual",
+    "This painting showcases an abstract composition using a limited color palette, primarily in shades of blue, black, white, and beige. It features geometric shapes and forms that vaguely suggest elements of a still life, possibly including a fish and a bottle. The outlines are soft and blend into the background, while the juxtaposition of forms creates a sense of depth. The signature 'Radwi '75' indicates the artist's name and the year of creation. The artwork employs a cubist influence in its fragmentation and reassembly of objects within the space, giving it a modern and timeless quality." : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " ثيودور جيريكو هو رسام رومانسي فرنسي مشهور بأعماله الدرامية والمشحونة عاطفياً.\nولد ثيودور جيريكو في 26 سبتمبر 1791 في روان، فرنسا، في عائلة ثرية ومرموقة اجتماعياً.\nكانت حياة جيريكو الشخصية مليئة بالصعوبات المالية والمشاكل الصحية. كان معروفًا بشخصيته الشديدة والعاطفية، مما أدى أحيانًا إلى صراعات مع الآخرين."
+            "value" : "تعرض هذه اللوحة تكوينًا تجريديًا باستخدام لوحة ألوان محدودة، تتمحور بشكل أساسي حول درجات اللون الأزرق والأسود والأبيض والبيج. تتميز بأشكال هندسية وأشكال توحي بشكل غامض بعناصر من الطبيعة الصامتة، ربما تشمل سمكة وزجاجة. الخطوط الخارجية ناعمة وتندمج مع الخلفية، بينما يخلق تجاور الأشكال إحساسًا بالعمق. تشير التوقيع \"رضوي '75\" إلى اسم الفنان وسنة الإبداع. تستخدم العمل الفني تأثير الكوبية في تجزئتها وإعادة تجميع الأشياء داخل الفضاء، مما يمنحها نوعية حديثة وخالدة."
           }
         }
       }
     },
-    "Vincent van Gogh" : {
-      "extractionState" : "manual",
+    "Thursday Market, 1980" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "فنسنت فان جوخ"
+            "value" : "سوق الثلاثاء ،١٩٨٠"
           }
         }
       }
     },
-    "Vincent van Gogh was a Dutch Post-Impressionist painter whose work had a profound impact on the art world despite his relatively short and tumultuous life. Vincent Willem van Gogh was born in Zundert, Netherlands, to a middle-class family. He showed an early interest in art but initially pursued a career in various professions, including working as an art dealer, teacher, and preacher. incent van Gogh died on July 29, 1890, at the age of 37, from a gunshot wound, likely self-inflicted. The circumstances surrounding his death remain the subject of debate, with some suggesting it was suicide and others considering the possibility of accidental injury." : {
-      "extractionState" : "manual",
+    "Untitled (Desert Series), 1981-1982" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "فنسنت فان جوخ كان رسامًا هولنديًا يصنف كفنان في ما بعد الانطباعية، وكان لأعماله تأثيرًا عميقًا على عالم الفن على الرغم من حياته القصيرة والمضطربة نسبيًا. وُلد فنسنت ويليم فان جوخ في زوندرت، هولندا، لعائلة من الطبقة الوسطى. أظهر اهتمامًا مبكرًا بالفن ولكنه في البداية اتجه نحو مهن مختلفة، بما في ذلك العمل كتاجر فني ومدرس وقسيس.\n\nتُوفي فنسنت فان جوخ في 29 يوليو 1890، عن عمره يناهز الـ 37 عامًا، بسبب جروح بالرصاص، على الأرجح كانت ذاتيّة الإصابة. تظل الظروف المحيطة بوفاته موضوع يثير الجدل، حيث يقترح البعض أنها انتحار ويعتبر آخرون احتمالية إصابته عرضية."
+            "value" : "بدون عنوان (مسلسل الصحراء)، ١٩٨١-١٩٨٢"
           }
         }
       }
     },
-    "Women Of Algiers" : {
-      "extractionState" : "manual",
+    "Untitled, 1987" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "نساء الجزائر"
+            "value" : "بدون عنوان ،١٩٨٧"
           }
         }
       }
     },
-    "Women Of Algiers " : {
+    "Untitled, 1988" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "نساء الجزائر"
+            "value" : "بدون عنوان، ١٩٨٨"
           }
         }
       }
     },
-    "women of algiers story : The Women of Algiers refers to a famous series of 15 paintings created by the French Romantic artist Eugène Delacroix. These paintings were inspired by Delacroix's visit to North Africa, particularly Algiers (now part of Algeria), in 1832. The most renowned painting from this series is Women of Algiers in Their Apartment.Delacroix's journey to North Africa was a significant source of inspiration for him. His fascination with the exoticism, colors, and culture of Algiers is evident in this series." : {
-      "extractionState" : "manual",
+    "Zarina" : {
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "\"نساء الجزائر\" تشير إلى سلسلة مشهورة من 15 لوحة أنشأها الفنان الرومانسي الفرنسي إيوجين ديلاكروا. كانت هذه اللوحات مستوحاة من زيارة ديلاكروا إلى شمال أفريقيا، وتحديدا إلى الجزائر (التي أصبحت الآن جزءًا من الجزائر) في عام 1832. وتعتبر اللوحة الأكثر شهرة من هذه السلسلة هي \"نساء الجزائر في شقتهن\".\n\nكانت رحلة ديلاكروا إلى شمال أفريقيا مصدر إلهام هام بالنسبة له. إن إعجابه بالغرابة والألوان والثقافة في الجزائر واضح في هذه السلسلة."
+            "value" : "زارينا "
+          }
+        }
+      }
+    },
+    "Zarina Hashmi, who prefers to be called by just her first name, has a love for paper: “Paper is an organic material, almost like human skin,” she says. She uses the material to create prints, drawings, and even sculptures cast in paper pulps. Zarina received her degree in mathematics before continuing her studies as a printmaker in Bangkok, Tokyo, and Paris. To date, her various methods of printmaking have included intaglio, woodblock, lithography, and silkscreen. She works in series, creating several prints in order to articulate and explore the multiplicity of a concept. Her recurring themes include diaspora, nostalgia, memory, borders, and home; her subjects are those inspired by her own understanding of her surroundings and history. She also uses a combination of punctures, folds, cuts, and scratches to create textured surfaces." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زارينا هاشمي، التي تفضل أن تُعرف باسمها الأول فقط، لديها عشق للورق: \"الورق مادة عضوية، تشبه إلى حد كبير جلد الإنسان\"، كما تقول. تستخدم هذه المادة لإنشاء الطباعات، الرسومات، وحتى التماثيل المصبوبة في عجائن الورق. حصلت زارينا على درجتها في الرياضيات قبل أن تواصل دراستها كفنانة طباعة في بانكوك، طوكيو، وباريس. حتى الآن، شملت طرق الطباعة المتنوعة التي استخدمتها الطباعة النقشية، الطباعة الخشبية، الطباعة الحجرية، والطباعة الحريرية. تعمل زارينا في سلاسل، حيث تنشئ عدة طباعات من أجل التعبير عن واستكشاف تعددية مفهوم ما. تشمل موضوعاتها المتكررة الشتات، الحنين، الذاكرة، الحدود، والمنزل؛ وموضوعاتها هي تلك المستوحاة من فهمها الخاص لمحيطها وتاريخها. كما تستخدم مزيجًا من الثقوب، الطيات، القص، والخدوش لخلق أسطح محكمة."
           }
         }
       }
