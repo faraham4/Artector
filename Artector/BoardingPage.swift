@@ -35,8 +35,8 @@ struct BoardingView: View {
                             .multilineTextAlignment(.center)
                             .padding(.horizontal, 24.0)
                             .accessibilityLabel("Take a picture of the painting you want to know more about")
-                            .tag(0)
-                    }
+                            
+                    }.tag(0)
                     //page 2
                     VStack{
                         
@@ -56,9 +56,9 @@ struct BoardingView: View {
                             .multilineTextAlignment(.center)
                             .padding(.horizontal, 24.0)
                             .accessibilityLabel("Sit back and let our AI system recognize the painting")
-                            .tag(1)
+//                            .tag(1)
                         
-                    }
+                    }.tag(1)
                     // page3
                     VStack {
                         
