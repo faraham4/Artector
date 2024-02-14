@@ -205,23 +205,24 @@ struct ContentView: View {
 
             Spacer()
 
-            Button("Identify") {
+            Button("Scan") {
                 classifyImage(capturedImage: capturedImage)
             }
-            .padding()
             .foregroundColor(Color.white)
-            .frame(width: 250)
-            .background(Color.black)
+            .fontWeight(.medium)
+            .font(.title3)
+            .frame(width: 342,height: 50)
+            .background(Color("PrimaryColor"))
             .cornerRadius(10)
 
             NavigationLink(destination: ResultPage(painting: selectedPainting, image: predictedImage), isActive: $navigateToResultPage) {
-                Text("Show Painting Info")
-                    .padding()
-                    .frame(width: 250)
-                    .foregroundColor(Color.black)
-                    .background(Color.white)
-                    .cornerRadius(10)
-                    .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.black, lineWidth: 2))
+//                Text("Show Painting Info")
+//                    .padding()
+//                    .frame(width: 250)
+//                    .foregroundColor(Color.black)
+//                    .background(Color.white)
+//                    .cornerRadius(10)
+//                    .overlay(RoundedRectangle(cornerRadius: 10).stroke(Color.black, lineWidth: 2))
             }
             .padding()
 
@@ -230,8 +231,7 @@ struct ContentView: View {
                 .font(.body)
                 .multilineTextAlignment(.center)
         }
-        .padding()
-        .navigationBarTitle("Image Identification", displayMode: .inline)
+        .navigationTitle("Captured Image").navigationBarTitleDisplayMode(.inline)
     }
 
     private func classifyImage(capturedImage: UIImage) {

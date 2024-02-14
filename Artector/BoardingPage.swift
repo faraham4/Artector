@@ -1,62 +1,116 @@
 import SwiftUI
 
 struct BoardingView: View {
-    var body: some View {
-        NavigationView {
-            VStack {
-                Spacer()
-                VStack (alignment: .leading){
-                    Text("Artector")
-                        .font(.largeTitle)
-                        .fontWeight(.bold)
-                        .frame(width: 180)
-                        .foregroundStyle(.black) .padding([.top, .leading])
-                        .accessibilityLabel("Artector App")
-                    
-                    Text("Find out the story behind a  painting  3 Taps !")
-                         Text("Open your Camera")
-                         Text("Take a picture")
-                         Text("And enjoy your tour")
-                        .font(.headline)
-                        .foregroundColor(.black)
-                        .padding([.leading, .bottom, .trailing])
-                        .frame(width: 350)
-                        .accessibilityLabel("Discover stories behind famous paintings")
-                    
-                }.padding(.vertical)
-                    
-                ZStack{
-                    Image("borderGroup").position(x: 195, y:190)
-                    
-                    Image("mona lisa").resizable().frame(width: 210, height: 250).mask(Rectangle().frame(width: 220, height: 220)).position(x:195, y: 190)
-                        .accessibilityLabel("Mona Lisa Painting Image")
-                    
-                }.padding(.top)
-                
-                
-                NavigationLink(
-                    destination: CameraPage(),
-                    label: {
-                        Text("Get Started")
-                            .font(.title2)
-                            .fontWeight(.bold)
-                            .foregroundColor(.white)
-                            .padding()
-                            .frame(
-                                width: 250)
-                            .background(Color.black)
-                            .cornerRadius(10).position(x: 180, y:190)
-                    }
-                )
-                .padding()
-                .accessibilityLabel("Get Started")
+    
+    @State private var currentTab = 0
+    var skipAction: () -> Void = {
+                print("Skip button tapped")
+              
             }
+    
+    var body: some View {
+        NavigationView{
+            VStack {
+                TabView(selection: $currentTab,
+                        content: {
+                    
+                    //page1
+                    VStack {
+                        VStack{
+                            
+                            Image("HandCapture") // Replace with your image name
+                                .resizable()
+                                .scaledToFit()
+                                .frame(width: 240, height: 290)
+                                .accessibilityLabel("Illustrative image of a hand holding a phone to capture a painting image")
+                            
+                        }.padding(.bottom, 60)
+                        
+                        
+                        Text("Easy Capture")
+                            .font(.title)
+                            .fontWeight(.medium)
+                            .accessibilityLabel("Easy Capture")
+                        Text("Take a picture of the painting you want to know more about")
+                            .multilineTextAlignment(.center)
+                            .padding(.horizontal, 24.0)
+                            .accessibilityLabel("Take a picture of the painting you want to know more about")
+                            .tag(0)
+                    }
+                    //page 2
+                    VStack{
+                        
+                        Image("PaintingScan") // Replace with your image name
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 290, height: 290)
+                            .padding(.bottom, 60)
+                            .accessibilityLabel("Illustrative image of a painting getting scanned")
+                        
+                        Text("Fast Scan")
+                            .font(.title)
+                            .fontWeight(.semibold)
+                            .accessibilityLabel("Fast Scan")
+                        
+                        Text("Sit back and let our AI system recognize the painting")
+                            .multilineTextAlignment(.center)
+                            .padding(.horizontal, 24.0)
+                            .accessibilityLabel("Sit back and let our AI system recognize the painting")
+                            .tag(1)
+                        
+                    }
+                    // page3
+                    VStack {
+                        
+                        Image("DescriptionImage") // Replace with your image name
+                            .resizable()
+                            .scaledToFit()
+                            .frame(width: 151, height: 290)
+                            .padding(.bottom, 60)
+                            .accessibilityLabel("Illustrative image of a phone containing a painting image with imaginary text boxes")
+                        
+                        Text("Enjoy The Story")
+                            .font(.title)
+                            .fontWeight(.semibold)
+                            .accessibilityLabel("Enjoy The Story")
+                        
+                        Text("Get a detailed description of the painting in text and sound")
+                            .multilineTextAlignment(.center)
+                            .padding(.horizontal, 24.0)
+                            .accessibilityLabel("Get a detailed description of the painting in text and sound")
+                        
+                    }.tag(2)
+                })
+                
+                HStack{
+                    
+                    Spacer()
+                    NavigationLink(destination: CameraPage(), label:{
+                        Text("Skip")
+                            .foregroundColor(Color("PrimaryColor"))
+                            .fontWeight(.medium)
+                            .font(.title3)
+                            .accessibilityLabel("Skip Button")
+                    })
+                    
+                }.padding([.bottom, .top, .trailing], 24)
+                
+            }
+            .padding()
+            .tabViewStyle(PageTabViewStyle())
             
+            .onAppear {
+                setupAppearance()
+            }
+            .indexViewStyle(PageIndexViewStyle(backgroundDisplayMode: .automatic))
         }
     }
     
+    func setupAppearance() {
+        UIPageControl.appearance().currentPageIndicatorTintColor = UIColor(Color("PrimaryColor"))
+        UIPageControl.appearance().pageIndicatorTintColor = UIColor(Color("PrimaryColor")).withAlphaComponent(0.3)
+    }
 }
-
 
 
 struct BoardingView_Previews: PreviewProvider {
@@ -64,3 +118,5 @@ struct BoardingView_Previews: PreviewProvider {
         BoardingView()
     }
 }
+
+

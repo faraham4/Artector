@@ -22,7 +22,7 @@ struct ResultPage: View {
                             .resizable()
                             .aspectRatio(contentMode: .fit)
                             .frame(maxWidth: .infinity)
-                            .cornerRadius(10)
+//                            .cornerRadius(10)
                             .accessibilityLabel("Displayed Image")
                             .accessibility(hint: Text("Displayed image for painting result"))
                         
@@ -99,6 +99,8 @@ struct ResultPage: View {
                         }//scroll
                         
                     }//vstack
+            .navigationTitle("Painting Details").navigationBarTitleDisplayMode(.inline)
+            Divider()
                     
                 }
                 

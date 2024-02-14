@@ -17,6 +17,7 @@
 		FD9AEDA82B317ED80095CF12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD9AEDA72B317ED80095CF12 /* Preview Assets.xcassets */; };
 		FD9AEDB22B318FCC0095CF12 /* BoardingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD9AEDB12B318FCC0095CF12 /* BoardingPage.swift */; };
 		FD9AEDD02B32CAE80095CF12 /* CameraPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD9AEDCF2B32CAE80095CF12 /* CameraPage.swift */; };
+		FD9C7C1B2B7BA1FB00420B4B /* onBordingdata.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD9C7C1A2B7BA1FB00420B4B /* onBordingdata.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		FD9AEDB02B318E590095CF12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		FD9AEDB12B318FCC0095CF12 /* BoardingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardingPage.swift; sourceTree = "<group>"; };
 		FD9AEDCF2B32CAE80095CF12 /* CameraPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraPage.swift; sourceTree = "<group>"; };
+		FD9C7C1A2B7BA1FB00420B4B /* onBordingdata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onBordingdata.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				FD9AEDB02B318E590095CF12 /* Info.plist */,
+				FD9C7C1A2B7BA1FB00420B4B /* onBordingdata.swift */,
 				016D6BE92B4C510200A4D3A5 /* MyImageClassifier.mlmodel */,
 				FD9AEDA02B317ED70095CF12 /* ArtectorApp.swift */,
 				0155DC432B381EC500A3392E /* painting.swift */,
@@ -161,6 +164,7 @@
 			files = (
 				FD9AEDB22B318FCC0095CF12 /* BoardingPage.swift in Sources */,
 				0155DC462B385CBB00A3392E /* ResultPage.swift in Sources */,
+				FD9C7C1B2B7BA1FB00420B4B /* onBordingdata.swift in Sources */,
 				016D6BEA2B4C510200A4D3A5 /* MyImageClassifier.mlmodel in Sources */,
 				0155DC422B381E5600A3392E /* ContentView.swift in Sources */,
 				FD9AEDD02B32CAE80095CF12 /* CameraPage.swift in Sources */,

@@ -107,9 +107,6 @@
         }
       }
     },
-    "And enjoy your tour" : {
-
-    },
     "Arif El Rayess " : {
       "localizations" : {
         "ar" : {
@@ -121,6 +118,7 @@
       }
     },
     "Artector" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -131,6 +129,7 @@
       }
     },
     "Artector App" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -266,7 +265,6 @@
       }
     },
     "Captured Image" : {
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -307,6 +305,7 @@
       }
     },
     "Discover stories behind famous paintings" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -346,6 +345,9 @@
         }
       }
     },
+    "Easy Capture" : {
+
+    },
     "El Rayess participated in the Jeddah embellishment intiated by then-mayor Mohammed Sayed Farsi, in collaboration with architect Julio Lafuente. The result of this years-long initiative is often referred to as an (open-air museum) and includes sculptures by invited Arab and international artists. El Rayess' 28-meter-high aluminuim sculpture Column of Light (1981), representing the word (Allah) (SWT), is still visible on a square on Palestine street in Jeddah. The artist's engagement with sculpture and architecture was influenced by his close relationship with architects Hassan Fathy and Fredrich Kiesler, and he produced numerous drawings, models and utopian architectural sketches. Captivated by the light of the Arabian desert, El Rayess a significant series of over 300 hundred landscapes, including paintings and drawings. In Tabuk, he photographed the rock formation of its mountains, villages and ancient ruins. All these elemnts feature in his landscapes as he seeks to capture the desert's changing light, vastness and spiritual dimensiom. El Rayess refers to these formal expiremnts as (Marhalat Al-Noor) or the (Period of Light), during which he undertook numerous studies and trials in capturing the light of the desert." : {
       "localizations" : {
         "ar" : {
@@ -356,7 +358,10 @@
         }
       }
     },
-    "Find out the story behind a  painting  3 Taps !" : {
+    "Enjoy The Story" : {
+
+    },
+    "Fast Scan" : {
 
     },
     "Find out the story behind a famous painting with a tap!" : {
@@ -401,7 +406,11 @@
         }
       }
     },
+    "Get a detailed description of the painting in text and sound" : {
+
+    },
     "Get Started" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -422,6 +431,7 @@
       }
     },
     "Identify" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -442,6 +452,15 @@
         }
       }
     },
+    "Illustrative image of a hand holding a phone to capture a painting image" : {
+
+    },
+    "Illustrative image of a painting getting scanned" : {
+
+    },
+    "Illustrative image of a phone containing a painting image with imaginary text boxes" : {
+
+    },
     "Image for identification" : {
       "extractionState" : "stale",
       "localizations" : {
@@ -454,6 +473,7 @@
       }
     },
     "Image Identification" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -535,6 +555,7 @@
       }
     },
     "Mona Lisa Painting Image" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -708,9 +729,6 @@
         }
       }
     },
-    "Open your Camera" : {
-
-    },
     "Our Generous Land (The Spring of Generousity), 1980" : {
       "localizations" : {
         "ar" : {
@@ -740,6 +758,9 @@
           }
         }
       }
+    },
+    "Painting Details" : {
+
     },
     "Painting Name" : {
       "localizations" : {
@@ -857,7 +878,11 @@
         }
       }
     },
+    "Scan" : {
+
+    },
     "Show Painting Info" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -877,6 +902,15 @@
           }
         }
       }
+    },
+    "Sit back and let our AI system recognize the painting" : {
+
+    },
+    "Skip" : {
+
+    },
+    "Skip Button" : {
+
     },
     "Still Life with Fish, 1975" : {
       "localizations" : {
@@ -898,7 +932,7 @@
         }
       }
     },
-    "Take a picture" : {
+    "Take a picture of the painting you want to know more about" : {
 
     },
     "Tap to start image Identification" : {
